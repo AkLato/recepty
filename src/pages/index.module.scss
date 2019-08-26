@@ -1,0 +1,116 @@
+.background {
+  background-image: url(../posts/gatsby/images/bread-color-copyspace-1565982.jpg);
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  margin: auto;
+  -webkit-filter: blur(1px);
+  -moz-filter: blur(1px);
+  -o-filter: blur(1px);
+  -ms-filter: blur(1px);
+  filter: blur(1px);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.center {
+  position: absolute;
+  margin: auto;
+  top: 40px;
+  left: 10%;
+  width: 370px;
+  height: 220px;
+  color: #fff;
+  padding: 1.3rem;
+  border-radius: 10px;
+}
+
+.flex {
+  display: flex;
+}
+
+.images {
+  -webkit-box-shadow: 0px 7px 22px -4px rgba(0, 0, 0, 0.62);
+  -moz-box-shadow: 0px 7px 22px -4px rgba(0, 0, 0, 0.62);
+  box-shadow: 0px 7px 22px -4px rgba(0, 0, 0, 0.62);
+  top: 370px;
+  left: 50px;
+  margin: 10px;
+  height: 270px;
+  width: 300px;
+  display: flex;
+  -webkit-animation: fade-in 1s ease-in both;
+  animation: fade-in 1s ease-in both;
+}
+
+.images:hover {
+  animation-name: floating;
+  animation-duration: 1s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in-out;
+}
+@keyframes floating {
+  from {
+    transform: translate(0, 0px);
+  }
+  to {
+    transform: translate(0, -10px);
+  }
+}
+
+.fade {
+  animation: fadeIn ease 1s;
+  -webkit-animation: fadeIn ease 1s;
+  -moz-animation: fadeIn ease 1s;
+  -o-animation: fadeIn ease 1s;
+  -ms-animation: fadeIn ease 1s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

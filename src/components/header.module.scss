@@ -1,0 +1,83 @@
+// Nav
+.header {
+  margin: 0.5rem;
+  padding-top: 0.4rem;
+  width: 300px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 42px;
+  background-color: rgba(240, 248, 255, 0.664);
+  border-radius: 10px 10px 0px 0px;
+}
+
+.nav-list {
+  display: flex;
+  list-style-type: none;
+  margin-left: 0.7rem;
+}
+
+.nav-item {
+  color: #000000;
+  font-size: 0.9rem;
+  margin-right: 1.3rem;
+  text-decoration: none;
+}
+
+.nav-item:hover {
+  color: rgb(148, 148, 148);
+}
+
+.active-nav-item {
+  color: rgba(29, 29, 29, 0.815);
+}
+
+ul {
+  margin: 0;
+}
+
+// Recipes
+.posts {
+  list-style-type: none;
+  margin: 0;
+}
+
+.post {
+  margin: 0rem 0;
+
+  a {
+    background: #f4f4f4;
+    color: #000000;
+    display: block;
+    padding: 0.3rem 0.5rem;
+    text-decoration: none;
+  }
+
+  a:hover {
+    background: #e4e4e4;
+  }
+
+  p {
+    color: #000000;
+    font-size: 1rem;
+  }
+}
+
+// Bottom
+.footer {
+  margin-bottom: 0;
+  margin-top: 2rem;
+  padding: 0.4rem;
+  height: 40px;
+  width: 300px;
+  margin: auto;
+  background-color: rgba(202, 202, 202, 0.753);
+  text-align: center;
+  border-radius: 0px 0px 10px 10px;
+  bottom: 0px;
+  font-size: 0.8rem;
+
+  p {
+    margin-bottom: 0px;
+  }
+}
