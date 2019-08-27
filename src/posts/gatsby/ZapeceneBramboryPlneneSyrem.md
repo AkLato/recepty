@@ -1,5 +1,5 @@
 ---
-title: "Zapečené brambory plněné sýrem"
+title: "Brambory plněné sýrem"
 ---
 
 ![bakedpotatoes](./images/stuffed-potato.jpg)

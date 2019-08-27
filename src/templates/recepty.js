@@ -24,7 +24,7 @@ const Blog = props => {
         <h3>{props.data.markdownRemark.frontmatter.title}</h3>
         <div
           dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
-        ></div>
+        />
       </div>
     </Layout>
   )

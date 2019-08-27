@@ -7,8 +7,7 @@
   top: 0px;
   left: 0px;
   height: 42px;
-  background-color: rgba(240, 248, 255, 0.664);
-  border-radius: 10px 10px 0px 0px;
+  background-color: #ccf2f8de;
 }
 
 .nav-list {
@@ -18,7 +17,7 @@
 }
 
 .nav-item {
-  color: #000000;
+  color: #303030;
   font-size: 0.9rem;
   margin-right: 1.3rem;
   text-decoration: none;
@@ -29,7 +28,7 @@
 }
 
 .active-nav-item {
-  color: rgba(29, 29, 29, 0.815);
+  color: rgba(0, 0, 0, 0.815);
 }
 
 ul {
@@ -46,7 +45,7 @@ ul {
   margin: 0rem 0;
 
   a {
-    background: #f4f4f4;
+    background: #ddedf0c2;
     color: #000000;
     display: block;
     padding: 0.3rem 0.5rem;
@@ -54,7 +53,8 @@ ul {
   }
 
   a:hover {
-    background: #e4e4e4;
+    background: #e0f1ff;
+    border-left: solid rgb(174, 75, 255) 2px;
   }
 
   p {
@@ -71,9 +71,8 @@ ul {
   height: 40px;
   width: 300px;
   margin: auto;
-  background-color: rgba(202, 202, 202, 0.753);
+  background-color: rgb(255, 255, 255);
   text-align: center;
-  border-radius: 0px 0px 10px 10px;
   bottom: 0px;
   font-size: 0.8rem;
 
