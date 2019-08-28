@@ -7,7 +7,7 @@ import "./sidebar.css"
 
 export default props => {
   return (
-    <div className="tall">
+    <div>
       <Menu {...props} isOpen={true} noOverlay width={"250px"}>
         <Scrollbars>
           <ContentList />
