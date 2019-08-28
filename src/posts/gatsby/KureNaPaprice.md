@@ -1,5 +1,6 @@
 ---
 title: "Kuře na paprice"
+tags: ["omáčka", "kuřecí"]
 ---
 
 ![Kuře na paprice](./images/kureNaPaprice.jpg)

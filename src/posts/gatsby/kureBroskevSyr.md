@@ -1,5 +1,6 @@
 ---
 title: "Kuřecí plátek se šunkou, broskví a sýrem"
+tags: ["sladké", "zdravé", "kuřecí"]
 ---
 
 ![Kuřecí plátek se šunkou, broskví a sýrem](./images/kureBroskevSyr.jpg)

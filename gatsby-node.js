@@ -1,4 +1,5 @@
 const path = require("path")
+const _ = require("lodash")
 
 module.exports.onCreateNode = ({ node, actions }) => {
   const { createNodeField } = actions
@@ -14,10 +15,11 @@ module.exports.onCreateNode = ({ node, actions }) => {
   }
 }
 
-module.exports.createPages = async ({ graphql, actions }) => {
+module.exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
   const blogTemplate = path.resolve("./src/templates/recepty.js")
-  const res = await graphql(`
+  const tagTemplate = path.resolve("./src/templates/tags.js")
+  const result = await graphql(`
     query {
       allMarkdownRemark {
         edges {
@@ -25,18 +27,41 @@ module.exports.createPages = async ({ graphql, actions }) => {
             fields {
               slug
             }
+            frontmatter {
+              tags
+            }
           }
+        }
+      }
+      tagsGroup: allMarkdownRemark(limit: 2000) {
+        group(field: frontmatter___tags) {
+          fieldValue
         }
       }
     }
   `)
+  if (result.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`)
+    return
+  }
 
-  res.data.allMarkdownRemark.edges.forEach(edge => {
+  result.data.allMarkdownRemark.edges.forEach(edge => {
     createPage({
       component: blogTemplate,
       path: `/recepty/${edge.node.fields.slug}`,
       context: {
         slug: edge.node.fields.slug,
+      },
+    })
+  })
+
+  const tags = result.data.tagsGroup.group
+  tags.forEach(tag => {
+    createPage({
+      path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
+      component: tagTemplate,
+      context: {
+        tag: tag.fieldValue,
       },
     })
   })

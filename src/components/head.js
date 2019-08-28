@@ -10,6 +10,19 @@ const Head = ({ title }) => {
           title
         }
       }
+      allMarkdownRemark(limit: 2000) {
+        group(field: frontmatter___tags) {
+          fieldValue
+          totalCount
+        }
+        edges {
+          node {
+            fields {
+              slug
+            }
+          }
+        }
+      }
     }
   `)
 

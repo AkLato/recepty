@@ -1,7 +1,6 @@
 ---
 title: "Fettuccine Alfredo"
-Title: "This is the title tag of this page"
-Description: "This is the meta description"
+tags: ["těstoviny", "smetana", "sýr"]
 ---
 
 ![bananove livance](./images/Fettuccine-Alfredo-5.jpg)

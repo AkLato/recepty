@@ -1,5 +1,6 @@
 ---
 title: "Brambory plněné sýrem"
+tags: ["pečené", "slanina"]
 ---
 
 ![bakedpotatoes](./images/stuffed-potato.jpg)

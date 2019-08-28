@@ -1,5 +1,6 @@
 ---
 title: "Kuřecí vývar"
+tags: ["polévka", "zdravé", "kuřecí"]
 ---
 
 ![Kuřecí vývar](./images/kureciVyvar.jpg)

@@ -1,5 +1,6 @@
 ---
 title: "Halušky"
+tags: ["brambory", "slanina"]
 ---
 
 ![Halusky](./images/Halusky.jpg)

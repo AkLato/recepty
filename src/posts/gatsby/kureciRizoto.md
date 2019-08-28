@@ -1,5 +1,6 @@
 ---
 title: "Rizoto s kuřecím masem"
+tags: ["rýže", "kuřecí"]
 ---
 
 ![Rizoto s kuřecím masem](./images/kureciRizoto.jpg)

@@ -1,5 +1,6 @@
 ---
 title: "Čínská nudlová polévka"
+tags: ["nudle", "zdravé", "asie"]
 ---
 
 ![noodlesoup](./images/chickenSoup.jpg)

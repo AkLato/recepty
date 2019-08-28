@@ -9,7 +9,7 @@ const IndexPage = props => {
   return (
     <Link to="/recepty">
       <Head title="" />
-      <div className={indexStyles.background}></div>
+      <div className={indexStyles.background} />
       <div className={indexStyles.flex}>
         <Img
           className={indexStyles.images}

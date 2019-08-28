@@ -1,5 +1,6 @@
 ---
 title: "Krémové rizoto s lososem"
+tags: ["rýže", "zdravé", "ryby"]
 ---
 
 ![Krémové rizoto s lososem](./images/rizotoLosos.jpg)

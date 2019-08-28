@@ -1,5 +1,6 @@
 ---
 title: "Chleba ve vajíčku"
+tags: ["vajíčka", "mastné"]
 ---
 
 ![chelbaVajicko](./images/chlebavevajicku.jpg)

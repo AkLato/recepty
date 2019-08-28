@@ -1,5 +1,6 @@
 ---
 title: "Fish & Chips"
+tags: ["ryby", "smažené", "brambory"]
 ---
 
 ![Fish & Chips](./images/fishChips.jpg)
