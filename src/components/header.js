@@ -1,31 +1,9 @@
 import React from "react"
-import { Link, graphql, useStaticQuery } from "gatsby"
+import { Link } from "gatsby"
 
 import headerStyles from "./header.module.scss"
 
 const Header = () => {
-  const data = useStaticQuery(graphql`
-    query {
-      site {
-        siteMetadata {
-          author
-        }
-      }
-      allMarkdownRemark {
-        edges {
-          node {
-            frontmatter {
-              title
-            }
-            fields {
-              slug
-            }
-          }
-        }
-      }
-    }
-  `)
-
   return (
     <header className={headerStyles.header}>
       <nav>
@@ -58,23 +36,6 @@ const Header = () => {
             </Link>
           </li>
         </ul>
-        <ol className={headerStyles.posts}>
-          {data.allMarkdownRemark.edges.map(edge => {
-            return (
-              <li className={headerStyles.post}>
-                <Link to={`/recepty/${edge.node.fields.slug}`}>
-                  <p>{edge.node.frontmatter.title}</p>
-                </Link>
-              </li>
-            )
-          })}
-        </ol>
-        <footer className={headerStyles.footer}>
-          <p>
-            {data.site.siteMetadata.author}. You can{" "}
-            <Link to="/kontakt">hire me!</Link>
-          </p>
-        </footer>
       </nav>
     </header>
   )

@@ -1,5 +1,5 @@
 ---
-title: "Houbová Omáčka"
+title: "Houbová omáčka"
 ---
 
 ![Houbova Omáčka](./images/houbova.jpg)

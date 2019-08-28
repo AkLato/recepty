@@ -1,19 +1,18 @@
 // Nav
 .header {
-  margin: 0.5rem;
   padding-top: 0.4rem;
-  width: 300px;
+  width: 280px;
   position: absolute;
   top: 0px;
-  left: 0px;
-  height: 42px;
+  left: 250px;
+  height: 40px;
   background-color: #ccf2f8de;
 }
 
 .nav-list {
   display: flex;
   list-style-type: none;
-  margin-left: 0.7rem;
+  margin-left: 0.6rem;
 }
 
 .nav-item {
