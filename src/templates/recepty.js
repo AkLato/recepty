@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Head from "../components/head"
+import Timer from "../components/timer"
 import ReceptStyles from "./recepty.module.scss"
 
 export const query = graphql`
@@ -25,6 +26,9 @@ const Blog = props => {
         <div
           dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
         />
+        <div className="timerBox">
+          <Timer />
+        </div>
       </div>
     </Layout>
   )

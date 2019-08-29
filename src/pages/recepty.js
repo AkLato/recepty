@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Head from "../components/head"
 import Converter from "../components/converter"
+import Timer from "../components/timer"
 import "./recepty.css"
 
 const BlogPage = () => {
@@ -12,7 +13,7 @@ const BlogPage = () => {
       <Head title="Recepty" />
       <div className="tags">
         <Link className="tagText" to="/tags">
-          Tagy
+          Třídit podle tagů
         </Link>
       </div>
       <Converter />

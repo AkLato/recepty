@@ -1,0 +1,42 @@
+.timer {
+  background: #ccf2f84f;
+  display: inline-block;
+  border-radius: 10rem;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.button {
+  background: transparent;
+  border-radius: 2rem;
+  margin: 0.3rem;
+  border: none;
+  padding: 1rem;
+}
+
+.buttonStart:hover {
+  background-color: rgb(122, 206, 122);
+}
+.buttonReset:hover {
+  background-color: rgb(240, 141, 116);
+}
+
+.timerBox {
+  margin: auto;
+  text-align: center;
+}
+.control {
+  margin-top: 3rem;
+}
+.control:hover {
+  cursor: pointer;
+  background: #ccf2f84f;
+}
+.invisible {
+  display: none;
+}
+.icon {
+  margin-right: 0.5rem;
+  position: relative;
+  top: 3px;
+}

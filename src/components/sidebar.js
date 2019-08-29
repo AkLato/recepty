@@ -8,7 +8,7 @@ import "./sidebar.css"
 export default props => {
   return (
     <div>
-      <Menu {...props} isOpen={true} noOverlay width={"250px"}>
+      <Menu {...props} isOpen={false} width={"250px"}>
         <Scrollbars>
           <ContentList />
         </Scrollbars>
