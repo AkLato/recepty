@@ -12,7 +12,7 @@ function contentClass(isShow) {
 class Timer extends React.Component {
   constructor(props) {
     super(props)
-    this.state = { count: 1, isShow: false }
+    this.state = { count: 0, isShow: false }
     this.handleClick = this.handleClick.bind(this)
   }
   componentWillUnmount() {

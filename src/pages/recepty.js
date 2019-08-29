@@ -4,19 +4,22 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Head from "../components/head"
 import Converter from "../components/converter"
-import Timer from "../components/timer"
 import "./recepty.css"
 
 const BlogPage = () => {
   return (
     <Layout>
       <Head title="Recepty" />
-      <div className="tags">
-        <Link className="tagText" to="/tags">
-          Třídit podle tagů
-        </Link>
+      <div className="container">
+        <div className="tags">
+          <Link className="tagText" to="/tags">
+            Třídit podle tagů
+          </Link>
+        </div>
+        <div className="converter">
+          <Converter />
+        </div>
       </div>
-      <Converter />
     </Layout>
   )
 }
