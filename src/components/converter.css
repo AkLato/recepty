@@ -1,5 +1,7 @@
-.container {
+.box {
   background: #f8f8f8;
+  margin-top: 1rem;
+  padding: 2rem;
 }
 
 .flex {

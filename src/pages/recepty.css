@@ -1,8 +1,7 @@
 .tags {
   margin: auto;
-  padding: 2rem;
+  padding: 1rem 2rem;
   text-align: center;
-  padding-bottom: 4rem;
 }
 .tags:hover {
   background-color: #ccf2f8de;
@@ -11,12 +10,12 @@
 .tagText {
   text-decoration: none;
   display: inline-block;
-  font-size: 2rem;
   color: black;
+  margin: 1rem 0;
 }
 
 .tagText:hover {
-  color: #ada2a2;
+  color: #77def0;
 }
 
 .container {

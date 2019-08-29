@@ -11,11 +11,11 @@ const BlogPage = () => {
     <Layout>
       <Head title="Recepty" />
       <div className="container">
-        <div className="tags">
-          <Link className="tagText" to="/tags">
-            Třídit podle tagů
-          </Link>
-        </div>
+        <Link className="tagText" to="/tags">
+          <div className="tags">
+            <h3>Třídit podle tagů</h3>
+          </div>
+        </Link>
         <div className="converter">
           <Converter />
         </div>

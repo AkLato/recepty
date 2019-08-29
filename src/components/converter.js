@@ -80,7 +80,7 @@ class Converter extends React.Component {
     const fahrenheit = scale === "c" ? tryConvert(value, toFahrenheit) : value
 
     return (
-      <div className="container">
+      <div className="box">
         <h3 className="head">Temp Converter</h3>
         <div className="flex">
           <TemperatureInput
