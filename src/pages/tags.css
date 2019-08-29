@@ -1,7 +1,7 @@
 .container {
   margin: auto;
   background: #f8f8f8;
-  width: 750px;
+  max-width: 750px;
 }
 
 .itemList {

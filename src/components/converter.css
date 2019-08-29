@@ -12,3 +12,9 @@ input {
   color: #000;
   background: #fff;
 }
+
+@media screen and (max-width: 992px) {
+  .flex {
+    display: block;
+  }
+}

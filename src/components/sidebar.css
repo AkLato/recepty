@@ -37,7 +37,7 @@
 
 /* General sidebar styles */
 .bm-menu-wrap {
-  position: fixed;
+  position: absolute;
 
   left: 0px;
   top: -8px;
