@@ -11,20 +11,24 @@ const IndexPage = props => {
       <Head title="" />
       <div className={indexStyles.background} />
       <div className={indexStyles.flex}>
-        <Img
-          className={indexStyles.images}
-          fluid={props.data.imageOne.childImageSharp.fluid}
-        />
+        <Link to="recepty/BananovePlacky">
+          <Img
+            className={indexStyles.images}
+            fluid={props.data.imageOne.childImageSharp.fluid}
+          />
+        </Link>
         <Link to="recepty/BananovePlacky">
           <Img
             className={indexStyles.images}
             fluid={props.data.imageTwo.childImageSharp.fluid}
           />
         </Link>
-        <Img
-          className={indexStyles.images}
-          fluid={props.data.imageThree.childImageSharp.fluid}
-        />
+        <Link to="recepty/BananovePlacky">
+          <Img
+            className={indexStyles.images}
+            fluid={props.data.imageThree.childImageSharp.fluid}
+          />
+        </Link>
       </div>
       <div className={indexStyles.center}>
         <h1 className={indexStyles.fade}>

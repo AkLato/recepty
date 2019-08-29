@@ -1,24 +1,25 @@
 // Nav
 .header {
-  padding-top: 0.4rem;
-  width: 280px;
-  top: 0px;
   margin: auto;
-  height: 40px;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  width: 532px;
+  height: 64px;
   background-color: #ccf2f8de;
 }
 
 .nav-list {
   display: flex;
   list-style-type: none;
-  margin-left: 0.6rem;
+  width: 55%;
+  margin: auto;
 }
 
 .nav-item {
   color: #303030;
-  font-size: 0.9rem;
-  margin-right: 1.3rem;
+  font-size: 1.1rem;
   text-decoration: none;
+  padding: 0 1rem;
 }
 
 .nav-item:hover {
@@ -43,7 +44,7 @@ ul {
   margin: 0rem 0;
 
   a {
-    background: #ddedf0c2;
+    background: #ddedf0;
     color: #000000;
     display: block;
     padding: 0.3rem 0.5rem;

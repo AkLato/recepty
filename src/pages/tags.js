@@ -1,11 +1,13 @@
 import React from "react"
 import PropTypes from "prop-types"
+import "./tags.css"
 
 // Utilities
 import kebabCase from "lodash/kebabCase"
 
 // Components
 import Head from "../components/head"
+import Header from "../components/header"
 import { Link, graphql } from "gatsby"
 
 const TagsPage = ({
@@ -18,12 +20,13 @@ const TagsPage = ({
 }) => (
   <div>
     <Head title={title} />
-    <div>
+    <Header />
+    <div className="container">
       <h1>Tags</h1>
-      <ul>
+      <ul className="itemList">
         {group.map(tag => (
-          <li key={tag.fieldValue}>
-            <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+          <li className="items" key={tag.fieldValue}>
+            <Link className="link" to={`/tags/${kebabCase(tag.fieldValue)}/`}>
               {tag.fieldValue} ({tag.totalCount})
             </Link>
           </li>

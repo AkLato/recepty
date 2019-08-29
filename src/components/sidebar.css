@@ -6,23 +6,12 @@
   color: #d1d1d1;
   transition: color 0.2s;
 }
-
-/* Change color on hover */
-.bm-item:hover {
-  color: white;
-}
-
-/* The rest copied directly from react-burger-menu docs */
-
-/* Position and sizing of burger button */
 .bm-burger-button {
-  position: absolute;
-  margin: auto;
-  width: 30px;
-  height: 26px;
-  left: 258px;
-  top: 40px;
-  z-index: 9999;
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  left: 36px;
+  top: 26px;
 }
 
 /* Color/shape of burger icon bars */
@@ -30,17 +19,20 @@
   background: #373a47;
 }
 
+/* Color/shape of burger icon bars on hover*/
+.bm-burger-bars-hover {
+  background: #c380dd;
+}
+
 /* Position and sizing of clickable cross button */
 .bm-cross-button {
   height: 24px;
   width: 24px;
-  color: #373a47;
 }
 
 /* Color/shape of close button cross */
 .bm-cross {
-  background: #faa556;
-  display: none;
+  background: #c380dd;
 }
 
 /* General sidebar styles */
@@ -48,9 +40,8 @@
   position: fixed;
 
   left: 0px;
-  top: 15px;
+  top: -8px;
   background: #373a4700;
-  padding: 0;
   margin: 1rem 0rem 3rem;
   font-size: 1.15em;
 }

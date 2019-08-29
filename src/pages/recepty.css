@@ -1,0 +1,22 @@
+.tags {
+  width: 100%;
+  background: #f8f8f8;
+  margin: auto;
+  margin: 1rem 0;
+  padding: 2rem;
+  text-align: center;
+}
+.tags:hover {
+  background-color: #ccf2f8de;
+}
+
+.tagText {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2rem;
+  color: black;
+}
+
+.tagText:hover {
+  color: #ada2a2;
+}

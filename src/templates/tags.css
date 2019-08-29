@@ -1,0 +1,24 @@
+.container {
+  margin: auto;
+  background: #f8f8f8;
+}
+
+.itemList {
+  list-style-type: none;
+  display: flex;
+}
+
+.items {
+  margin: auto;
+  background: #e9fafc;
+  padding: 0.3rem;
+  display: flex;
+}
+.items:hover {
+  background: #c7c7c7;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
