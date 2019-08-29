@@ -36,3 +36,9 @@ KUŘE:
 4. RATATOUILLE: Předehřejte horkovzdušnou troubu na horní i spodní ohřev na 180 °C.
 5. Všechnu zeleninu omyjte. Lilek nakrájejte na malé kousky, rajčata a cuketu na měsíčky, papriky zbavte středu a nakrájejte na proužky.
 6. Všechnu zeleninu dejte do pekáče, zakápněte olivovým olejem, zalijte rajčatovým protlakem a bílým vínem, přidejte nasekanou bazalku a osolte a opepřete podle chuti. Pekáč přikryjte poklopem nebo alobalem a dejte asi na 1 hodinu do trouby. Po hodině pekáč odklopte a nechte v troubě dalších 5 minut.
+
+**Video**
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3R77AHUU9sE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

@@ -22,3 +22,9 @@ tags: ["sladké", "zdravé"]
 3. Heat a non-stick frying pan over medium heat.
 4. Fry spoonfuls of the batter until golden brown on both sides.
 5. Serve with a drizzle of maple syrup and fresh fruit of your choice.
+
+**Video**
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-DI0Nr3wPQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

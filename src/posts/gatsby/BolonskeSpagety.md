@@ -32,3 +32,9 @@ tags: ["těstoviny", "mleté maso", "omáčka"]
 5. Dochutíme solí a pepřem.
 6. Těsně před dovařením omáčky uvaříme těstoviny.
 7. Podáváme nepromíchané (těstoviny pouze přelijeme) a dozdobíme parmazánem (popřípadě i lístkem petrželky).
+
+**Video**
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EOKWf2Sn0A0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

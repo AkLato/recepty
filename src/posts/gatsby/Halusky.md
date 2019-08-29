@@ -21,3 +21,9 @@ tags: ["brambory", "slanina"]
 4. Opatrně jednou promícháme.
 5. Když halušky vyplavou na povrch, scedíme je.
 6. Halušky promícháme se zelím a podáváme.
+
+**Video**
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/91FKWqBlotA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

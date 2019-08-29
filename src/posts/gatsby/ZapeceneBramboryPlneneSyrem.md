@@ -29,3 +29,9 @@ Editor's Note: Potatoes may be stuffed ahead of time and refrigerated or frozen
 Test Kitchen Tips
 White pepper is milder than black pepper, but use whichever you prefer or happen to have on hand.
 We're obsessed with the deep rich flavor of smoked paprika; it just may be the bacon of the spice world. Try it here. It really sets off the cheesy topping!
+
+**Video**
+
+<figure class="video_container">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/nBpxVdpMBZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

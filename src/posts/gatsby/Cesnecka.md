@@ -23,3 +23,9 @@ tags: ["polévka", "zdravé"]
 3. Do polévky dáme mletý kmín, sůl, rozetřený česnek a sádlo
 4. Jakmile nám začne polévka vařit, tak jsou brambory už měkké a do polévky nalévám vejce za současného míchání polévky
 5. Vejce okamžitě tuhne a tak polévku odstavíme ze sporáku, po té do ní přidáme majoránku a můžeme podávat.
+
+**Video**
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LSAXl2umt-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

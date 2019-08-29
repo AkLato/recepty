@@ -39,3 +39,9 @@ TO SERVE (NOT ALL SAUCE IS USED)
 6. Slow cook: Cover the pot and let it cook for 2 hours or until beef is tender enough to shred. (Note 5 for slow cooker and pressure cooker).
 7. Shred: Remove beef then coarsely shred with 2 forks. Return beef to the pot. Simmer for 30 minutes until sauce is reduced and thickened - beef will soften slightly more during this step.
 8. Final season: Do a taste test and adjust the seasoning to your taste with salt and pepper. ALSO, add 1/2 tsp sugar if sauce is a bit sour for your taste (Note 6). Place the lid on and set aside until ready to serve (it's even better the next day and freezes well for months!).
+
+**Video**
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ChzUN_RvMeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

@@ -32,3 +32,9 @@ tags: ["ryby", "smažené", "brambory"]
 
 NOTES
 Lightly coat fish in flour before battering to help batter stick better. Use a handy dandy Candy/Deep Fry Thermometer. Don’t try to estimate. Use a thermometer and know for sure that the oil is hot enough for frying. Avoid crowding the pot. Not only does adding a bunch to hot oil all at once lower the overall temperature of the oil but the food can begin to bunch and stick together. Drain excess oil. Prepare paper towel lined baking sheet or cooling rack to allow food to drain off excess oil while cooling.
+
+**Video**
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wGjS8fLI7eQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

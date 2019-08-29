@@ -24,3 +24,9 @@ tags: ["mleté maso", "brambory"]
 2. Na pánvi rozpálíme větší množství oleje na vysokou teplotu a válečky v něm zprudka opečeme tak, aby střed zůstal mírně načervenalý. Před vložením do rozpáleného oleje možno poprášit hladkou moukou.
 3. Podáváme s hořčicí, najemno nakrájenou cibulkou, syrovou zeleninou. Vhodná je i tatarská omáčka.
 4. Příloha: vařené brambory, hranolky.
+
+**Video**
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/B8FV9JUY0co" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

@@ -28,3 +28,9 @@ tags: ["zelenina", "zdravé", "mleté maso"]
 1. Place the couscous, cumin, paprika and a big pinch of salt into a bowl. Stir to combine, then pour over just enough boiling water to cover the couscous. Cover the bowl and leave for about 10 minutes.
 2. Meanwhile, finely chop the onion, cucumber, tomatoes and chilli (I leave the seeds in, but deseed if you prefer). Finely chop the mint and coriander leaves, and the parsley (including the stalks).
 3. Mix the couscous up with a fork, then stir in the tomato purée until well coated (I do this with my hands – it’s messy, but quite therapeutic!). Add all the chopped vegetables, chilli and herbs and mix well. Stir in the oil and the lemon zest and juice, then season to how you like it. Serve as a side with grilled meat or fish or eat it on its own if you want a light meal or snack.
+
+**Video**
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GZQGy9oscVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

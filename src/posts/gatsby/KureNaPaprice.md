@@ -23,3 +23,9 @@ tags: ["omáčka", "kuřecí"]
 2. V kastrolu rozehřejte olej. Vložte díly kuřete kůží dolů a zprudka je orestujte dozlatova. Otočte a to samé i na druhé straně. Pokud se vám nevejdou najednou – klidně na dvě nebo tři várky.
 3. Kuře vyjměte a dejte stranou. Přidejte lžíci másla a nasekanou cibuli. Zmírněte trochu plamen a pomalu nechte cibuli zesklovatět (8 až 10 minut, ale ne zase, aby chytila výraznou barvu). Přidejte mouku s mletou paprikou a krátce zasmahněte.
 4. Zalijte horkým vývarem a promíchejte. Vložte všechny díly kuřete a dejte na mírný plamen pomalu táhnout (asi 45 až 60 minut). Měkké maso vyjměte – podle preferencí jej už můžete obrat. Přidejte smetanu a rozmixujte dohladka. Maso vraťte a nechte ještě chvíli v omáčce dojít.
+
+**Video**
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/suN8b7HMkig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

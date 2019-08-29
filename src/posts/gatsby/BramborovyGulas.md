@@ -30,3 +30,9 @@ tags: ["brambory"]
 4. Přisypeme koření a sůl a vaříme téměř do měkka. Zelí dáme do jiného hrnce, trochu podlijeme a dusíme cca 10 minut.
 5. Do téměř měkkých brambor přidáme zelí a promícháme. Mouku rozmícháme v troše vody a přilijeme do vařícího základu.
 6. Společně provaříme cca 10-15 minut. Dochutíme chilli, zbytkem česneku případně solí a pepřem. Podáváme s chlebem.
+
+**Video**
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BKoBc_bO814" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

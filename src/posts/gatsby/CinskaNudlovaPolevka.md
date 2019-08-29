@@ -31,3 +31,9 @@ BROTH
 3. Cut vegetables to desired size. For bok choy, cut them into quarters (cut a cross into the base and tear it into neat quarters with your hands).
 4. Pick ginger and garlic out of soup broth. Add buk choi and cook for 1 minute. Add chicken then turn the stove off.
 5. Place noodles in bowls. Divide soup and toppings between bowls. Garnish with shallots if using. Great served with chilli paste or fresh chillis.
+
+**Video**
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SqLsdGqzTJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

@@ -21,3 +21,9 @@ tags: ["polévka", "zelenina"]
 1. Brokolici očistíme, omyjeme a rozdělíme na růžičky, košťály oloupeme a nakrájíme na plátky. Česnek nasekáme a podusíme na rozpáleném tuku spolu s nakrájenými košťály.
 2. Přilijeme vývar a povaříme na mírném ohni asi 5 minut. Přidáme růžičky brokolice a vaříme 10 minut.
 3. Poté brokolici spolu s vývarem rozmixujeme. Za stálého míchání přidáme smetanu a dochutíme solí, pepřem a strouhaným muškátovým oříškem.
+
+**Video**
+
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2KR44a_5v_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

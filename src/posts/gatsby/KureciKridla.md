@@ -27,3 +27,9 @@ Honey Sriracha Glaze:
 2. Whisk baking powder, salt, black pepper, and paprika together in a small bowl. Place chicken wings in a large bowl. Sprinkle 1/2 of the baking powder mixture over wings and toss to coat. Sprinkle remaining baking powder mixture over wings and toss to coat again. Place wings onto the rack of the prepared baking sheet.
 3. Bake in the preheated oven for 20 minutes. Turn wings and continue baking for 20 minutes. Turn wings again and bake until wings are browned and crispy, about 15 minutes more. Transfer wings to a large bowl.
 4. Whisk honey, sriracha sauce, rice vinegar, and sesame oil together in a bowl until glaze is smooth. Drizzle glaze over wings and toss to coat completely. Transfer wings to a serving platter and sprinkle sesame seeds over the top.
+
+**Video**
+
+<figure class="video_container">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/BDVg0u2YQ7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
