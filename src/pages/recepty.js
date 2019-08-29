@@ -13,7 +13,9 @@ const BlogPage = () => {
       <div className="container">
         <Link className="tagText" to="/tags">
           <div className="tags">
-            <h3>Třídit podle tagů</h3>
+            <h3>
+              <u>Třídit podle tagů</u>
+            </h3>
           </div>
         </Link>
         <div className="converter">

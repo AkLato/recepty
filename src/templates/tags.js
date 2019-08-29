@@ -2,6 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import "./tags"
 import Header from "../components/header"
+import Sidebar from "../components/sidebar"
 
 // Components
 import { Link, graphql } from "gatsby"
@@ -15,6 +16,7 @@ const Tags = ({ pageContext, data }) => {
   return (
     <div>
       <Header />
+      <Sidebar />
 
       <div class="container">
         <h1>{tagHeader}</h1>
@@ -36,7 +38,7 @@ const Tags = ({ pageContext, data }) => {
               We'll come back to it!
             */}
         <Link className="link" to="/tags/">
-          All tags
+          <u>All tags</u>
         </Link>
       </div>
     </div>
