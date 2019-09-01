@@ -1,6 +1,6 @@
 ---
 title: "Makrela"
-tags: ["ryba", "zdravé", "pečené"]
+tags: ["ryby", "zdravé", "pečené"]
 ---
 
 ![Makrela](./images/makrela.jpg)

@@ -23,7 +23,7 @@ const Header = () => {
               activeClassName={headerStyles.activeNavItem}
               to="/recepty"
             >
-              Recepty
+              Menu
             </Link>
           </li>
           <li>
