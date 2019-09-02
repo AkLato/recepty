@@ -2,19 +2,21 @@ backend:
   name: git-gateway
   branch: v2
 
-media_folder: ../src/posts/gatsby/images
-public_folder: ../src/posts/gatsby
+media_folder: static/assets
+public_folder: assets
 
 collections:
   - name: "recepty"
     label: "Recepty"
-    folder: "posts/gatsby"
+    folder: "recepty"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Ingredience", name: "ingredience", widget: "markdown" }
+      - { label: "Postup", name: "postup", widget: "markdown" }
+      - { label: "Viedo", name: "video", widget: "markdown" }
