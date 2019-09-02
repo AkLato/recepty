@@ -7,8 +7,7 @@ import kebabCase from "lodash/kebabCase"
 
 // Components
 import Head from "../components/head"
-import Header from "../components/header"
-import Sidebar from "../components/sidebar"
+import Layout from "../components/layout"
 import { Link, graphql } from "gatsby"
 
 const TagsPage = ({
@@ -19,23 +18,24 @@ const TagsPage = ({
     },
   },
 }) => (
-  <div>
-    <Head title={title} />
-    <Header />
-    <Sidebar />
-    <div className="container">
-      <h1>Tags</h1>
-      <ul className="itemList">
-        {group.map(tag => (
-          <li className="items" key={tag.fieldValue}>
-            <Link className="link" to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-              {tag.fieldValue} ({tag.totalCount})
-            </Link>
-          </li>
-        ))}
-      </ul>
+  <Layout>
+    <div>
+      <Head title={title} />
+
+      <div className="container">
+        <h1>Tags</h1>
+        <ul className="itemList">
+          {group.map(tag => (
+            <li className="items" key={tag.fieldValue}>
+              <Link className="link" to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                {tag.fieldValue} ({tag.totalCount})
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </div>
     </div>
-  </div>
+  </Layout>
 )
 
 TagsPage.propTypes = {

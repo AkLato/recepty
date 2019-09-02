@@ -1,11 +1,10 @@
 import React from "react"
 import PropTypes from "prop-types"
 import "./tags"
-import Header from "../components/header"
-import Sidebar from "../components/sidebar"
 
 // Components
 import { Link, graphql } from "gatsby"
+import Layout from "../components/layout"
 
 const Tags = ({ pageContext, data }) => {
   const { tag } = pageContext
@@ -14,34 +13,33 @@ const Tags = ({ pageContext, data }) => {
     totalCount === 1 ? "" : "s"
   } tagged with "${tag}"`
   return (
-    <div>
-      <Header />
-      <Sidebar />
-
-      <div class="container">
-        <h1>{tagHeader}</h1>
-        <ul className="itemList">
-          {edges.map(({ node }) => {
-            const { slug } = node.fields
-            const { title } = node.frontmatter
-            return (
-              <li className="items" key={slug}>
-                <Link className="link" to={`/recepty/${slug}`}>
-                  {title}
-                </Link>
-              </li>
-            )
-          })}
-        </ul>
-        {/*
+    <Layout>
+      <div>
+        <div class="container">
+          <h1>{tagHeader}</h1>
+          <ul className="itemList">
+            {edges.map(({ node }) => {
+              const { slug } = node.fields
+              const { title } = node.frontmatter
+              return (
+                <li className="items" key={slug}>
+                  <Link className="link" to={`/recepty/${slug}`}>
+                    {title}
+                  </Link>
+                </li>
+              )
+            })}
+          </ul>
+          {/*
               This links to a page that does not yet exist.
               We'll come back to it!
             */}
-        <Link className="link" to="/tags/">
-          <u>All tags</u>
-        </Link>
+          <Link className="link" to="/tags/">
+            <u>All tags</u>
+          </Link>
+        </div>
       </div>
-    </div>
+    </Layout>
   )
 }
 Tags.propTypes = {

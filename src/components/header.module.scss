@@ -1,8 +1,8 @@
 // Nav
 .header {
-  margin: 0.5rem auto;
   padding: 0.5rem;
-  background-color: #ccf2f800;
+  background-color: #f4f4fc;
+  width: 100%;
 }
 
 .nav-list {
@@ -41,7 +41,7 @@ ul {
   margin: 0rem 0;
 
   a {
-    background: #ddedf0;
+    background: #f3f4fc;
     color: #000000;
     display: block;
     padding: 0.3rem 0.5rem;
@@ -50,7 +50,7 @@ ul {
 
   a:hover {
     background: #e0f1ff;
-    border-left: solid rgb(174, 75, 255) 2px;
+    border-left: solid rgb(125, 140, 255) 3px;
   }
 
   p {

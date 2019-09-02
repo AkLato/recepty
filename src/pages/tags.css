@@ -1,7 +1,6 @@
 .container {
   margin: auto;
-  background: #f8f8f8;
-  max-width: 750px;
+  max-width: 1200px;
 }
 
 .itemList {
@@ -10,12 +9,12 @@
 
 .items {
   margin: auto;
-  background: #e9fafc;
+  background: #f3f4fc;
   padding: 0.2rem;
   display: flex;
 }
 .items:hover {
-  background: #c7c7c7;
+  background: #e0f1ff;
 }
 
 .link {

@@ -21,9 +21,9 @@ const Header = () => {
             <Link
               className={headerStyles.navItem}
               activeClassName={headerStyles.activeNavItem}
-              to="/recepty"
+              to="/tools"
             >
-              Menu
+              Tools
             </Link>
           </li>
           <li>

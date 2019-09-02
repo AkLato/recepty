@@ -15,19 +15,25 @@
     width: fit-content;
   }
   button {
-    background: #c05353;
+    background: #4d5888;
     padding: 0.6rem 1rem;
     margin: 0.5rem;
     border: solid #363636 1px;
     color: #fff;
+    cursor: pointer;
   }
+}
+
+.layer {
+  background-color: #95c6d3;
+  padding: 0.8rem;
 }
 
 .bg {
   position: relative;
   height: 100%;
   width: 100%;
-  padding: 2rem 3rem;
+  padding: 0.5rem;
   -webkit-animation-name: myfirst;
   -webkit-animation-duration: 10s;
   -webkit-animation-timing-function: linear;

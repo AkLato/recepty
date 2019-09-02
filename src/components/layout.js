@@ -5,7 +5,6 @@ import "../styles/index.scss"
 import "./sidebar.css"
 import layoutStyles from "./layout.module.scss"
 import Sidebar from "./sidebar"
-import Footer from "./footer"
 
 const Layout = props => {
   return (
@@ -18,7 +17,6 @@ const Layout = props => {
 
           <div className={layoutStyles.content}>{props.children}</div>
         </div>
-        {/* <Footer /> */}
       </div>
     </div>
   )
