@@ -11,9 +11,9 @@ const BlogPage = props => {
   return (
     <Layout>
       <Head title="tools" />
-      <Link to="/admin/">
+      <a href="/admin/">
         <button class="login">Login to Admin Page</button>
-      </Link>
+      </a>
       <div className="converter">
         <Converter />
       </div>
