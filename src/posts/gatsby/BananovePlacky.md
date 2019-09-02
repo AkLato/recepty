@@ -1,13 +1,12 @@
 ---
-title: "Banánové placky"
-tags: ["sladké", "zdravé"]
+title: Banánové placky
 ---
 
 ![bananove livance](./images/bananoveLivance.jpg)
 
 **Ingredience**
 
-- banán
+- banánCZ
 - vejce
 - vanilkový cukr
 - ovesné vločky
