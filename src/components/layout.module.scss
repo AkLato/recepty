@@ -9,7 +9,7 @@
 
 .content {
   flex-grow: 1;
-  margin: auto;
+  margin: 2rem;
   min-width: 350px;
 }
 
@@ -25,4 +25,9 @@
   top: 0;
   left: 0;
   z-index: -1;
+}
+
+.side {
+  overflow: hidden;
+  overflow-y: scroll;
 }

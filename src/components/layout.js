@@ -5,11 +5,14 @@ import "../styles/index.scss"
 import "./sidebar.css"
 import layoutStyles from "./layout.module.scss"
 import Sidebar from "./sidebar"
+import ContentList from "./contentList"
 
 const Layout = props => {
   return (
     <div id="App">
       <Sidebar pageWrapId={"page-wrap"} outerContainerId={"App"} />
+      <ContentList />
+
       <div id="page-wrap">
         <div className={layoutStyles.background} />
         <div className={layoutStyles.container}>

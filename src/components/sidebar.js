@@ -2,7 +2,7 @@ import React from "react"
 import { slide as Menu } from "react-burger-menu"
 import { Scrollbars } from "react-custom-scrollbars"
 
-import ContentList from "./contentList"
+import ContentListBurger from "./contentListBurger"
 import "./sidebar.css"
 
 export default props => {
@@ -10,7 +10,7 @@ export default props => {
     <div>
       <Menu {...props} isOpen={false} width={"250px"}>
         <Scrollbars>
-          <ContentList />
+          <ContentListBurger />
         </Scrollbars>
       </Menu>
     </div>

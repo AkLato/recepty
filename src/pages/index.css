@@ -41,8 +41,8 @@ h4 {
   grid-template-rows: 1fr 1fr;
   grid-template-areas: ". . ." ". . .";
   width: 100%;
-  grid-column-gap: 25px;
-  grid-row-gap: 10px;
+  grid-column-gap: 1%;
+  grid-row-gap: 1%;
 }
 
 .images {
@@ -67,7 +67,7 @@ h4 {
     transform: translate(0, 0px);
   }
   to {
-    transform: translate(0, -10px);
+    transform: translate(0, -2px);
   }
 }
 
