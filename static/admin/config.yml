@@ -15,8 +15,4 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Ingredience", name: "ingredience", widget: "markdown" }
-      - { label: "Postup", name: "postup", widget: "markdown" }
-      - { label: "Viedo", name: "video", widget: "markdown" }
