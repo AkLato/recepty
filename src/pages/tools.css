@@ -5,13 +5,29 @@
 .login {
   background-color: rgb(20, 160, 20);
   border: none;
-  padding: 0.6rem;
+  padding: 0.5rem;
   border-radius: 2px;
   color: #fff;
   margin: 1rem;
   cursor: pointer;
+  position: relative;
+  float: right;
 }
 
 .login:hover {
   background-color: rgb(18, 122, 18);
+}
+
+.searchBox {
+  margin: 1rem 0 1rem 1rem;
+}
+.search {
+  margin-top: 1rem;
+}
+ul {
+  margin: 0rem 0;
+  list-style-type: none;
+}
+form {
+  margin: 0;
 }

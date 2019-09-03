@@ -1,5 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
+import { IoIosSearch } from "react-icons/io"
+
 import Img from "gatsby-image"
 
 import Layout from "../components/layout"
@@ -11,6 +13,15 @@ const BlogPage = props => {
     <Layout>
       <Head title="Recepty" />
       <div className="container">
+        <div class="searchContainer">
+          <Link to="/tools" class="btn-search">
+            <p>
+              <IoIosSearch />
+              Search
+            </p>
+          </Link>
+        </div>
+
         <div className="grid-container">
           <Link to="tags/pecene">
             <Img
