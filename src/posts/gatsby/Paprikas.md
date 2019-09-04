@@ -1,6 +1,6 @@
 ---
 title: "Paprikáš"
-tags: ["zelenina", "zdravé", "mleté maso"]
+tags: ["zelenina", "zdravé"]
 ---
 
 ![Paprikáš](./images/paprikas.jpg)

@@ -1,29 +1,28 @@
 ---
-title: "Vepřová pečeně se špenátem"
-tags: ["vepřové", "pečené"]
+title: "Kuřecí tortilla"
+tags: ["kuřecí", "zdravé", "zelenina"]
 ---
 
-![Vepřová pečeně](./images/veprovaPecene.jpg)
+![Kuřecí tortila](./images/kureciTortila.jpg)
 
 **Ingredience**
 
-- 1 kg vepřová pečeně
-- 1 ks citron
-- 3 lžíce rostlinný olej
-- 2 stroužek česnek
-- 750 g špenát
-- 75 g malé cibulky
-- 250 g rajčata
-- 2 lžíce smetana ke šlehání
-- sůl
-- pepř mletý
+- 2 cups cooked grilled chicken breasts chopped (seasoned with your favorite spices, see note)
+- 1/4 cup Hidden Valley® Simply Ranch dressing
+- 1/2 cup mozzarella cheese
+- 1/4 cup cilantro minced (optional)
+- 4 8' tortillas
 
 **Postup**
 
-1. Maso omyjeme, osušíme a potřeme solí a pepřem. Pečeme v předehřáté troubě (elektrický sporák 200 °C/plyn stupeň 3) asi 1 1/4 hodiny. Občas podlijeme. Citron omyjeme horkou vodou a dosucha otřeme. Kúru oloupeme škrabkou na proužky a odložíme. Šťávu vymačkáme a smísíme s 2 lžícemi oleje. Oloupeme česnek, nakrájíme jej na tenké plátky a spolu s proužky citronu vložíme do citronového oleje, kterým pak podlijeme maso (asi po hodině pečení). Špenát očistíme a propereme. Malé cibulky oloupeme, přepůlíme a opečeme na zbylém oleji. Přidáme neokapaný špenát a dusíme. Rajčata omyjeme, očistíme a rozkrájíme na kousky. Vmícháme je do špenátu, prohřejeme a ochutíme. Měkké maso vyjmeme, výpek procedíme a doplníme vodou na 1/2 l tekutiny. Přivedeme k varu. Solamyl utřeme ve smetaně, vmícháme do výpeku, krátce povaříme, osolíme a opepříme. Na míse upravíme pečeni se špenátem a ozdobíme plátky citronu. Vhodnou přílohou jsou opečené brambory
+1. Lay tortillas on a clean flat surface. Place about 1/2 cup chicken, 1 tablespoon ranch, 2 tablespoons of cheese, and 1 tablespoon of minced cilantro on each tortilla. Fold tightly to form a burrito shape.
+2. Heat a heavy-duty pan or grill to medium heat. Coat with a light layer or oil or cooking spray and cook wraps for 1-2 minutes on each side or until the tortilla is crispy and golden. Remove from heat, slice in half and serve immediately.
+
+Recipe Notes
+\*For the chicken: You can use cooked rotisserie chicken, leftover chicken, or grilled chicken seasoned with your favorite spices. I like to season my chicken with a tablespoon of fajita seasoning and grill in a hot pan for 5-6 minutes per side or until cooked through.
 
 **Video**
 
 <figure class="video_container">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Zi3a3h5763g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/GeDPFz4HRZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>

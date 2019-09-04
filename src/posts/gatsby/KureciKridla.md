@@ -1,6 +1,6 @@
 ---
 title: "Kuřecí křídla"
-tags: ["pálivé", "kuřecí"]
+tags: ["pálivé", "kuřecí", "pečené"]
 ---
 
 ![Kuřecí křídla](./images/kurecikridla.jpg)

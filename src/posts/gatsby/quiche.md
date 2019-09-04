@@ -1,6 +1,6 @@
 ---
 title: "Quiche"
-tags: ["pečené", "zdravé", "sýr"]
+tags: ["pečené", "sýr"]
 ---
 
 ![Quiche](./images/quiche.jpg)

@@ -1,5 +1,6 @@
 ---
 title: Banánové placky
+tags: ["sladké", "zdravé", "ovoce"]
 ---
 
 ![bananove livance](./images/bananoveLivance.jpg)

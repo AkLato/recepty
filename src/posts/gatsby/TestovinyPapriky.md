@@ -1,29 +1,31 @@
 ---
-title: "Vepřová pečeně se špenátem"
-tags: ["vepřové", "pečené"]
+title: "Těstoviny s paprikou"
+tags: ["těstoviny", "zelenina"]
 ---
 
-![Vepřová pečeně](./images/veprovaPecene.jpg)
+![Těstoviny s paprikou](./images/testovinyPaprika.jpg)
 
 **Ingredience**
 
-- 1 kg vepřová pečeně
-- 1 ks citron
-- 3 lžíce rostlinný olej
-- 2 stroužek česnek
-- 750 g špenát
-- 75 g malé cibulky
-- 250 g rajčata
-- 2 lžíce smetana ke šlehání
-- sůl
-- pepř mletý
+- 2-1/4 cups uncooked penne pasta
+- 3/4 cup chopped onion
+- 1 tablespoon olive oil
+- 3 garlic cloves, minced
+- 1 cup chopped sweet red pepper
+- 1 cup chopped green pepper
+- 1/4 cup sliced ripe olives
+- 1 teaspoon dried oregano
+- 1/4 teaspoon salt
+- 1/8 teaspoon cayenne pepper
+- 1/4 cup water
+- 1/2 cup crumbled feta cheese
 
 **Postup**
 
-1. Maso omyjeme, osušíme a potřeme solí a pepřem. Pečeme v předehřáté troubě (elektrický sporák 200 °C/plyn stupeň 3) asi 1 1/4 hodiny. Občas podlijeme. Citron omyjeme horkou vodou a dosucha otřeme. Kúru oloupeme škrabkou na proužky a odložíme. Šťávu vymačkáme a smísíme s 2 lžícemi oleje. Oloupeme česnek, nakrájíme jej na tenké plátky a spolu s proužky citronu vložíme do citronového oleje, kterým pak podlijeme maso (asi po hodině pečení). Špenát očistíme a propereme. Malé cibulky oloupeme, přepůlíme a opečeme na zbylém oleji. Přidáme neokapaný špenát a dusíme. Rajčata omyjeme, očistíme a rozkrájíme na kousky. Vmícháme je do špenátu, prohřejeme a ochutíme. Měkké maso vyjmeme, výpek procedíme a doplníme vodou na 1/2 l tekutiny. Přivedeme k varu. Solamyl utřeme ve smetaně, vmícháme do výpeku, krátce povaříme, osolíme a opepříme. Na míse upravíme pečeni se špenátem a ozdobíme plátky citronu. Vhodnou přílohou jsou opečené brambory
+1. Cook pasta according to package directions. In a nonstick skillet, saute onion in oil for 1-1/2 minutes. Add garlic; cook 30 seconds longer. Add the sweet peppers; cook and stir for 2-3 minutes or until vegetables are tender. Stir in the olives, oregano, salt and cayenne. Add water; cook and stir until mixture comes to a boil. Drain pasta and stir into skillet. Remove from the heat. Stir in cheese. Serve immediately.
 
 **Video**
 
 <figure class="video_container">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Zi3a3h5763g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/VCAyX1qduc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>

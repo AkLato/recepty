@@ -1,6 +1,6 @@
 ---
 title: "Hamburger"
-tags: ["mleté maso", "'Murica"]
+tags: ["mleté maso", "gril"]
 ---
 
 ![Hamburger](./images/hamburger.jpg)
