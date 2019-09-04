@@ -51,7 +51,7 @@
   .items {
     padding: 0.2rem;
     margin: 0.2rem;
-    min-height: 60px;
+    height: 100%;
   }
   .tagContainer {
     padding-top: 2rem;

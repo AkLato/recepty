@@ -28,6 +28,7 @@
 .items {
   margin: auto;
   background: #e2e9f1;
+  height: 100%;
 }
 .items:hover {
   background: #e0f1ff;
