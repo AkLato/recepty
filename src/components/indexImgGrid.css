@@ -1,54 +1,6 @@
-.tags {
-  margin: auto;
-  padding: 1rem;
-  text-align: center;
-}
-.tags:hover {
-  background-color: #f3f4fc;
-}
-
-h4 {
-  margin: 0;
-  text-decoration: none;
-  color: black;
-}
-
-.tagText {
-  text-decoration: none;
-  display: inline-block;
-  color: black;
-}
-
-.indexContainer {
-  max-width: 100%;
-  margin: auto;
-  background: #f5f1f2;
-  text-decoration: none;
-}
-
-.converter {
-  width: 100%;
-}
-
-/* .flex {
-  display: flex;
-} */
-
-.searchContainer {
-  float: right;
-}
-
-.btn-search {
-  cursor: pointer;
-  color: rgb(42, 76, 170);
-  text-decoration: none !important;
-  margin: 1rem;
-  height: 35px;
-}
-
 .grid-container {
-  padding: 1rem 0.5rem;
-  margin: 0rem 0rem;
+  padding: 0rem 0rem;
+  margin: 1rem 0;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;

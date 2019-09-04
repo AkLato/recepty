@@ -19,18 +19,18 @@ const TagsPage = ({
   },
 }) => (
   <Layout>
-    <div>
+    <div className="tagContainer">
       <Head title={title} />
 
-      <div className="container">
+      <div>
         <h1>Tags</h1>
-        <ul className="itemList">
+        <ul className="tagGrid">
           {group.map(tag => (
-            <li className="items" key={tag.fieldValue}>
-              <Link className="link" to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+            <Link className="link" to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+              <li className="items" key={tag.fieldValue}>
                 {tag.fieldValue} ({tag.totalCount})
-              </Link>
-            </li>
+              </li>
+            </Link>
           ))}
         </ul>
       </div>

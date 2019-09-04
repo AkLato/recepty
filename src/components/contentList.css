@@ -1,6 +1,6 @@
 .posts {
   list-style-type: none;
-  margin: 0rem 1rem;
+  margin: 0rem;
   position: absolute;
   width: 220px;
   height: 100vh;
@@ -12,20 +12,20 @@
   margin: 0rem 0;
 }
 
-a {
-  background: #f3f4fc;
+.post a {
+  background: #e2e9f1;
   color: #000000;
   display: block;
   padding: 0.3rem 0.5rem;
   text-decoration: none;
 }
 
-a:hover {
+.post a:hover {
   background: #e0f1ff;
-  border-left: solid rgb(125, 140, 255) 3px;
+  border-left: solid rgb(54, 54, 54) 3px;
 }
 
-p {
+.post p {
   color: #000000;
   font-size: 1rem;
 }

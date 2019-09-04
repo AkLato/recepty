@@ -1,19 +1,18 @@
-.tagContainer {
+.tagContainerTemp {
   background-color: #f5f1f2;
 }
-.tagContainer h1 {
+.tagContainerTemp h1 {
   padding: 1rem 1rem 0;
 }
-
-.tagContainer a {
+.tagContainerTemp a {
   margin: 0.5rem;
 }
-
-.tagContainer li {
+.tagContainerTemp li {
   padding: 1rem;
 }
 
 .tagGrid {
+  margin-top: 1rem;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-template-rows: repeat(5, 1fr);
@@ -51,9 +50,10 @@
   .items {
     padding: 0.2rem;
     margin: 0.2rem;
-    min-height: 60px;
+    height: 50px;
+    text-indent: 0;
   }
-  .tagContainer {
+  .tagContainerTemp {
     padding-top: 2rem;
   }
 }

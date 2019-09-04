@@ -26,9 +26,8 @@ const Blog = props => {
         <div
           dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
         />
-        <div className="timerBox">
-          <Timer />
-        </div>
+
+        <Timer />
       </div>
     </Layout>
   )

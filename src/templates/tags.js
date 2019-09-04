@@ -1,6 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
-import "./tags"
+import "./tempTags.css"
 
 // Components
 import { Link, graphql } from "gatsby"
@@ -14,19 +14,22 @@ const Tags = ({ pageContext, data }) => {
   } tagged with "${tag}"`
   return (
     <Layout>
-      <div>
-        <div class="container">
+      <div className="tagContainerTemp">
+        <div>
           <h1>{tagHeader}</h1>
-          <ul className="itemList">
+          <Link className="link" to="/tags/">
+            <u>All tags</u>
+          </Link>
+          <ul className="tagGrid">
             {edges.map(({ node }) => {
               const { slug } = node.fields
               const { title } = node.frontmatter
               return (
-                <li className="items" key={slug}>
-                  <Link className="link" to={`/recepty/${slug}`}>
+                <Link className="link" to={`/recepty/${slug}`}>
+                  <li className="items" key={slug}>
                     {title}
-                  </Link>
-                </li>
+                  </li>
+                </Link>
               )
             })}
           </ul>
@@ -34,9 +37,6 @@ const Tags = ({ pageContext, data }) => {
               This links to a page that does not yet exist.
               We'll come back to it!
             */}
-          <Link className="link" to="/tags/">
-            <u>All tags</u>
-          </Link>
         </div>
       </div>
     </Layout>

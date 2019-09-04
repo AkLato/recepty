@@ -1,26 +1,18 @@
 import React from "react"
 import { Link } from "gatsby"
-import { IoIosSearch } from "react-icons/io"
-
 import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import Head from "../components/head"
+import SearchAccordion from "../components/searchAccordion"
 import "./index.css"
 
 const BlogPage = props => {
   return (
     <Layout>
       <Head title="Recepty" />
-      <div className="container">
-        <div class="searchContainer">
-          <Link to="/tools" class="btn-search">
-            <p>
-              <IoIosSearch />
-              Search
-            </p>
-          </Link>
-        </div>
+      <div className="indexContainer">
+        <SearchAccordion />
 
         <div className="grid-container">
           <Link to="tags/pecene">
@@ -48,6 +40,33 @@ const BlogPage = props => {
             />
             <div className="tags">
               <h4>Těstoviny</h4>
+            </div>
+          </Link>
+          <Link to="tags/brambory">
+            <Img
+              className="images"
+              fluid={props.data.imageSeven.childImageSharp.fluid}
+            />
+            <div className="tags">
+              <h4>Brambory</h4>
+            </div>
+          </Link>
+          <Link to="tags/syr">
+            <Img
+              className="images"
+              fluid={props.data.imageEight.childImageSharp.fluid}
+            />
+            <div className="tags">
+              <h4>Sýr</h4>
+            </div>
+          </Link>
+          <Link to="tags/smazene">
+            <Img
+              className="images"
+              fluid={props.data.imageNine.childImageSharp.fluid}
+            />
+            <div className="tags">
+              <h4>Smažené</h4>
             </div>
           </Link>
           <Link to="tags/zdrave">
@@ -123,6 +142,27 @@ export const pageQuery = graphql`
       }
     }
     imageSix: file(relativePath: { eq: "posts/gatsby/images/six.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 1000) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    imageSeven: file(relativePath: { eq: "posts/gatsby/images/seven.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 1000) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    imageEight: file(relativePath: { eq: "posts/gatsby/images/eight.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 1000) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    imageNine: file(relativePath: { eq: "posts/gatsby/images/nine.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1000) {
           ...GatsbyImageSharpFluid

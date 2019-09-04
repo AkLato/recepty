@@ -48,7 +48,7 @@ class TemperatureInput extends React.Component {
               type="number"
               value={value}
               onChange={this.handleChange}
-              placeholder="Enter temp"
+              placeholder="Zadat teplotu..."
             />
           </div>
         </form>
@@ -81,7 +81,7 @@ class Converter extends React.Component {
 
     return (
       <div className="box">
-        <h3 className="head">Temp Converter</h3>
+        <h3 className="head">Převod teploty</h3>
         <div className="flex">
           <TemperatureInput
             scale="c"

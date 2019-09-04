@@ -9,7 +9,7 @@
   margin: 0rem 0;
 }
 
-a {
+.postsBurger a {
   background: #f3f4fc;
   color: #000000;
   display: block;
@@ -17,12 +17,12 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+.postsBurger a:hover {
   background: #e0f1ff;
   border-left: solid rgb(125, 140, 255) 3px;
 }
 
-p {
+.postsBurger p {
   color: #000000;
   font-size: 1rem;
 }
@@ -31,4 +31,13 @@ p {
   .postsBurger {
     display: block;
   }
+}
+
+.menuBurger {
+  background-color: #f3f4fc;
+  margin: 0;
+  padding: 2rem 0 0;
+  display: flex;
+  list-style-type: none;
+  border-bottom: 1px solid black;
 }

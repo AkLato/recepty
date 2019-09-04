@@ -2,66 +2,119 @@ import React from "react"
 import "./timer.css"
 import { IoMdStopwatch } from "react-icons/io"
 
-function contentClass(isShow) {
-  if (isShow) {
-    return "content"
+const leftPad = (width, n) => {
+  if ((n + "").length > width) {
+    return n
   }
-  return "content invisible"
+  const padding = new Array(width).join("0")
+  return (padding + n).slice(-width)
 }
 
 class Timer extends React.Component {
   constructor(props) {
     super(props)
-    this.state = { count: 0, isShow: false }
-    this.handleClick = this.handleClick.bind(this)
+    ;["lap", "update", "reset", "toggle"].forEach(method => {
+      this[method] = this[method].bind(this)
+    })
+
+    this.state = this.initialState = {
+      isRunning: false,
+      lapTimes: [],
+      timeElapsed: 0,
+    }
   }
-  componentWillUnmount() {
-    clearInterval(this.timer)
-  }
-  handleClick() {
-    this.setState(function(prevState) {
-      return { isShow: !prevState.isShow }
+  toggle() {
+    this.setState({ isRunning: !this.state.isRunning }, () => {
+      this.state.isRunning ? this.startTimer() : clearInterval(this.timer)
     })
   }
-  tick() {
-    this.setState({ count: this.state.count + 1 })
+  lap() {
+    const { lapTimes, timeElapsed } = this.state
+    this.setState({ lapTimes: lapTimes.concat(timeElapsed) })
+  }
+  reset() {
+    clearInterval(this.timer)
+    this.setState(this.initialState)
   }
   startTimer() {
-    clearInterval(this.timer)
-    this.timer = setInterval(this.tick.bind(this), 1000)
+    this.startTime = Date.now()
+    this.timer = setInterval(this.update, 10)
   }
-  stopTimer() {
-    this.setState({ count: 0 })
+  update() {
+    const delta = Date.now() - this.startTime
+    this.setState({ timeElapsed: this.state.timeElapsed + delta })
+    this.startTime = Date.now()
   }
   render() {
+    const { isRunning, lapTimes, timeElapsed } = this.state
     return (
-      <div>
-        <div className={contentClass(this.state.isShow)}>
-          <div className="timer">
-            <h1>{this.state.count}</h1>
-            <div>
-              <button
-                className="button buttonStart"
-                onClick={this.startTimer.bind(this)}
-              >
-                Start
+      <div className="timerContainer">
+        <div className="timerAccordion">
+          <div className="option">
+            <input type="checkbox" id="toggle1" className="toggle" />   {" "}
+            <label className="title" for="toggle1">
+              Timer
+              <IoMdStopwatch className="icon" />
+            </label>
+            <div className="content">
+              <TimeElapsed id="timer" timeElapsed={timeElapsed} />
+              <button onClick={this.toggle}>
+                {isRunning ? "Stop" : "Start"}
               </button>
               <button
-                className="button buttonReset"
-                onClick={this.stopTimer.bind(this)}
+                onClick={isRunning ? this.lap : this.reset}
+                disabled={!isRunning && !timeElapsed}
               >
-                Reset
+                {isRunning || !timeElapsed ? "Lap" : "Reset"}
               </button>
+              {lapTimes.length > 0 && <LapTimes lapTimes={lapTimes} />}
             </div>
           </div>
         </div>
-        <div className="control" onClick={this.handleClick}>
-          <h2>
-            <IoMdStopwatch className="icon" />
-            Timer
-          </h2>
-        </div>
       </div>
+    )
+  }
+}
+
+class TimeElapsed extends React.Component {
+  getUnits() {
+    const seconds = this.props.timeElapsed / 1000
+    return {
+      min: Math.floor(seconds / 60).toString(),
+      sec: Math.floor(seconds % 60).toString(),
+      msec: (seconds % 1).toFixed(3).substring(2),
+    }
+  }
+  render() {
+    const units = this.getUnits()
+    return (
+      <div id={this.props.id}>
+        <span>{leftPad(2, units.min)}:</span>
+        <span>{leftPad(2, units.sec)}.</span>
+        <span>{units.msec}</span>
+      </div>
+    )
+  }
+}
+
+class LapTimes extends React.Component {
+  render() {
+    const rows = this.props.lapTimes.map((lapTime, index) => (
+      <tr key={++index}>
+        <td>{index}</td>
+        <td>
+          <TimeElapsed timeElapsed={lapTime} />
+        </td>
+      </tr>
+    ))
+    return (
+      <table id="lap-times">
+        <thead>
+          <th>Lap</th>
+          <th>Time</th>
+        </thead>
+        <tbody>{rows}</tbody>
+      </table>
     )
   }
 }
