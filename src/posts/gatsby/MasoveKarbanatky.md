@@ -1,6 +1,6 @@
 ---
 title: "Masové karbanátky"
-tags: ["mleté maso", "smažené", "mastné"]
+tags: ["mlete maso", "smazene", "mastne"]
 ---
 
 ![Masové karbanátky](./images/karbanatky.jpg)

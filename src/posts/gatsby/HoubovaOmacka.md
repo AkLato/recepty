@@ -1,6 +1,6 @@
 ---
 title: "Houbová omáčka"
-tags: ["omáčka", "houby"]
+tags: ["omacka", "houby"]
 ---
 
 ![Houbova Omáčka](./images/houbova.jpg)

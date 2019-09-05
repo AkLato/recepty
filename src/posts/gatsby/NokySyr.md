@@ -1,6 +1,6 @@
 ---
 title: "Sýrové noky"
-tags: ["brambory", "sýr", "omáčka"]
+tags: ["brambory", "syr", "omacka"]
 ---
 
 ![Kuskus](./images/nokySyr.jpg)

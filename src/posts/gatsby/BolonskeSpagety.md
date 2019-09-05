@@ -1,6 +1,6 @@
 ---
 title: "Boloňské Špagety"
-tags: ["těstoviny", "mleté maso", "omáčka"]
+tags: ["testoviny", "mlete maso", "omacka"]
 ---
 
 ![bananove livance](./images/bolonske.jpeg)

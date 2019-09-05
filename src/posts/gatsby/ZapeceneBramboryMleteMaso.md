@@ -1,6 +1,6 @@
 ---
 title: "Zapečené brambory s mletým masem"
-tags: ["brambory", "mleté maso", "pečené"]
+tags: ["brambory", "mlete maso", "pecene"]
 ---
 
 ![Zapečené brambory s mletým masem](./images/zapeceneBramboryMleteMaso.jpg)

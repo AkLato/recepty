@@ -1,6 +1,6 @@
 ---
 title: "Pudink"
-tags: ["sladké"]
+tags: ["sladke"]
 ---
 
 ![Pudink](./images/pudink.jpg)

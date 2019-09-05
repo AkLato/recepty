@@ -34,6 +34,13 @@
   background: #e0f1ff;
 }
 
+.linkHome {
+  text-decoration: none;
+  color: black;
+  float: right;
+  padding: 1rem;
+}
+
 .link {
   text-decoration: none;
   color: black;
@@ -47,6 +54,7 @@
     grid-column-gap: 0px;
     grid-row-gap: 0px;
     list-style-type: none;
+    margin: 1rem 0.5rem;
   }
   .items {
     padding: 0.2rem;

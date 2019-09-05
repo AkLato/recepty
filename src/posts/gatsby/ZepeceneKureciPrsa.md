@@ -1,6 +1,6 @@
 ---
 title: "Zapečená kuřecí prsa"
-tags: ["sýr", "kuřecí", "pečené"]
+tags: ["syr", "kureci", "pecene"]
 ---
 
 ![Zapečená kuřecí prsa](./images/zapecenaKureciPrsa.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Topinka"
-tags: ["smažené"]
+tags: ["smazene"]
 ---
 
 ![Topinka](./images/topinka.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Květákový krém"
-tags: ["polévka"]
+tags: ["polevka"]
 ---
 
 ![Kuskus](./images/kvetakovyKrem.jpg)

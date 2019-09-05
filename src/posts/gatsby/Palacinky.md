@@ -1,6 +1,6 @@
 ---
 title: "Palačinky"
-tags: ["sladké", "smažené"]
+tags: ["sladke", "smazene"]
 ---
 
 ![Palačinky](./images/palacinky.jpg)

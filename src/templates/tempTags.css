@@ -12,7 +12,6 @@
 }
 
 .tagGrid {
-  margin-top: 1rem;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-template-rows: repeat(5, 1fr);
@@ -29,14 +28,24 @@
   margin: auto;
   background: #e2e9f1;
   height: 100%;
+  border-top-left-radius: 18%;
+  border-top-right-radius: 15%;
+  border-bottom-left-radius: 26%;
+  border-bottom-right-radius: 15%;
+  transform: rotate(-2deg);
 }
 .items:hover {
   background: #e0f1ff;
 }
 
-.link {
+.linkTemp {
   text-decoration: none;
   color: black;
+}
+.linkHomeTemp {
+  text-decoration: none;
+  color: black;
+  float: right;
 }
 
 @media (max-width: 767px) {
@@ -53,8 +62,5 @@
     margin: 0.2rem;
     height: 50px;
     text-indent: 0;
-  }
-  .tagContainerTemp {
-    padding-top: 2rem;
   }
 }

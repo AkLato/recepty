@@ -1,6 +1,6 @@
 ---
-title: "Vepřová pečeně se špenátem"
-tags: ["vepřové", "pečené"]
+title: "Smažený hermelín"
+tags: ["syr", "smazene"]
 ---
 
 ![Vepřová pečeně](./images/veprovaPecene.jpg)

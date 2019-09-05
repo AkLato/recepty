@@ -1,6 +1,6 @@
 ---
 title: "Česnečka"
-tags: ["polévka", "zdravé"]
+tags: ["polevka", "zdrave"]
 ---
 
 ![cesnecka](./images/cesnecka2.jpg)

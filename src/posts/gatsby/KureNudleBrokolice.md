@@ -1,6 +1,6 @@
 ---
 title: "Kuře nudle a brokolice"
-tags: ["nudle", "zdravé", "kuřecí"]
+tags: ["nudle", "zdrave", "kureci"]
 ---
 
 ![Kuře nudle a brokolice](./images/chickenBroccoli.jpg)

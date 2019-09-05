@@ -1,6 +1,6 @@
 ---
 title: "Hemenex"
-tags: ["vejce", "smažené"]
+tags: ["vejce", "smazene"]
 ---
 
 ![Hemenex](./images/hemenex.jpg)

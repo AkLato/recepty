@@ -23,7 +23,12 @@ const TagsPage = ({
       <Head title={title} />
 
       <div>
-        <h1>Tags</h1>
+        <Link className="linkHome" to="/">
+          <u>Domů</u>
+        </Link>
+        <h1>Tagy</h1>
+
+        <br />
         <ul className="tagGrid">
           {group.map(tag => (
             <Link className="link" to={`/tags/${kebabCase(tag.fieldValue)}/`}>

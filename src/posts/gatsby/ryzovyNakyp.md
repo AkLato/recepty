@@ -1,6 +1,6 @@
 ---
 title: "Rýžový nákyp"
-tags: ["rýže", "sladké"]
+tags: ["ryze", "sladke"]
 ---
 
 ![Rýžový nákyp](./images/ryzovyNakyp.jpg)

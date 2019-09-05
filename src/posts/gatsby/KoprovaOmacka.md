@@ -1,6 +1,6 @@
 ---
 title: "Koprová omáčka z mléka"
-tags: ["omáčka"]
+tags: ["omacka"]
 ---
 
 ![koprova](./images/koprova.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Kuřecí tortilla"
-tags: ["kuřecí", "zdravé", "zelenina"]
+tags: ["kureci", "zdrave", "zelenina"]
 ---
 
 ![Kuřecí tortila](./images/kureciTortila.jpg)

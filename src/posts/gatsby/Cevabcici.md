@@ -1,6 +1,6 @@
 ---
 title: "Čevabčiči"
-tags: ["mleté maso", "brambory", "smažené"]
+tags: ["mlete maso", "brambory", "smazene"]
 ---
 
 ![cevabcici](./images/cevabcici.jpg)

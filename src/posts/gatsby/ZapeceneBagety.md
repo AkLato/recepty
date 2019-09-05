@@ -1,6 +1,6 @@
 ---
 title: "Zapečená bageta"
-tags: ["pečivo", "sýr", "pečené"]
+tags: ["pecivo", "syr", "pecene"]
 ---
 
 ![Zapečená bageta](./images/zapecenaBageta.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Vepřové na pivě"
-tags: ["vepřové", "vařené"]
+tags: ["veprove", "varene"]
 ---
 
 ![Vepřové na pivě](./images/veproveNaPive.jpeg)

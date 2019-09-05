@@ -1,6 +1,6 @@
 ---
 title: "Rýže s vejcem"
-tags: ["rýže", "vejce"]
+tags: ["ryze", "vejce"]
 ---
 
 ![Rýže s vejcem](./images/riceEggs.jpg)

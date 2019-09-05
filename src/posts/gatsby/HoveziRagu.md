@@ -1,6 +1,6 @@
 ---
 title: "Hovězí ragů"
-tags: ["hovězí", "těstoviny", "mleté maso"]
+tags: ["hovezi", "testoviny", "mlete maso"]
 ---
 
 ![hoveziragu](./images/beefRagu.jpeg)

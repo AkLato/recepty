@@ -1,6 +1,6 @@
 ---
 title: "Špenátové noky"
-tags: ["brambory", "omáčka"]
+tags: ["brambory", "omacka"]
 ---
 
 ![Špenátové noky](./images/nokySpenat.jpg)

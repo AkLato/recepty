@@ -1,6 +1,6 @@
 ---
 title: "Zapečené brambory"
-tags: ["brambory", "sýr", "pečené"]
+tags: ["brambory", "syr", "pecene"]
 ---
 
 ![Zapečené brambory](./images/zapeceneBrambory.jpg)

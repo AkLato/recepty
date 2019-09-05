@@ -1,6 +1,6 @@
 ---
-title: "Vepřová pečeně se špenátem"
-tags: ["vepřové", "pečené"]
+title: "Sweet & Sour Chicken"
+tags: ["kureci", "smazene", "nudle"]
 ---
 
 ![Vepřová pečeně](./images/veprovaPecene.jpg)

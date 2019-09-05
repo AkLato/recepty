@@ -1,6 +1,6 @@
 ---
 title: "Kuskus"
-tags: ["zelenina", "zdravé", "mleté maso"]
+tags: ["zelenina", "zdrave", "mlete maso"]
 ---
 
 ![Kuskus](./images/kuskus.jpg)

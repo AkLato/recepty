@@ -1,6 +1,6 @@
 ---
 title: "Kuskus se zeleninou na kari"
-tags: ["zelenina", "zdravé", "těstoviny"]
+tags: ["zelenina", "zdrave", "testoviny"]
 ---
 
 ![Kuskus se zeleninou na kari](./images/kuskusKari.jpg)

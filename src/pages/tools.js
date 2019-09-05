@@ -11,9 +11,9 @@ const BlogPage = () => {
     <Layout>
       <Head title="tools" />
       <div>
-        <Link to="/admin/">
+        <a href="/admin/" target="_blank">
           <button className="login">Přihlásit do CMS</button>
-        </Link>
+        </a>
       </div>
       <div className="converter">
         <Converter />

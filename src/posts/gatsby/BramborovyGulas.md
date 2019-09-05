@@ -1,6 +1,6 @@
 ---
 title: "Bramborový Guláš"
-tags: ["brambory", "vařené"]
+tags: ["brambory", "varene"]
 ---
 
 ![gulas](./images/bramborovy-gulas-s-kysanym-zelim-176315-1920-1080.jpg)

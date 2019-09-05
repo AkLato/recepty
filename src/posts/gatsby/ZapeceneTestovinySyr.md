@@ -1,6 +1,6 @@
 ---
 title: "Zapečené těstoviny"
-tags: ["těstoviny", "sýr", "pečené"]
+tags: ["testoviny", "syr", "pecene"]
 ---
 
 ![Zapečené těstoviny](./images/zapeceneTestovinySyr.jpeg)

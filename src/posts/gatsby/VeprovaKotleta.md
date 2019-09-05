@@ -1,6 +1,6 @@
 ---
 title: "Vepřové kotlety na česneku"
-tags: ["vepřové", "smažené"]
+tags: ["veprove", "smazene"]
 ---
 
 ![Vepřové kotlety na česneku](./images/veproveCesnek.jpg)

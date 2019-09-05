@@ -1,6 +1,6 @@
 ---
 title: "Těstoviny s paprikou"
-tags: ["těstoviny", "zelenina"]
+tags: ["testoviny", "zelenina"]
 ---
 
 ![Těstoviny s paprikou](./images/testovinyPaprika.jpg)

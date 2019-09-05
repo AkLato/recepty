@@ -1,6 +1,6 @@
 ---
 title: "Lasagne"
-tags: ["těstoviny", "sýr", "pečené"]
+tags: ["testoviny", "syr", "pecene"]
 ---
 
 ![Lasagne](./images/lasagne.jpg)

@@ -16,16 +16,20 @@ const Tags = ({ pageContext, data }) => {
     <Layout>
       <div className="tagContainerTemp">
         <div>
-          <h1>{tagHeader}</h1>
-          <Link className="link" to="/tags/">
-            <u>All tags</u>
+          <Link className="linkHomeTemp" to="/">
+            <u>Domů</u>
           </Link>
+          <h1>{tagHeader}</h1>
+          <Link className="linkTemp" to="/tags/">
+            <u>Všechny tagy</u>
+          </Link>
+
           <ul className="tagGrid">
             {edges.map(({ node }) => {
               const { slug } = node.fields
               const { title } = node.frontmatter
               return (
-                <Link className="link" to={`/recepty/${slug}`}>
+                <Link className="linkTemp" to={`/recepty/${slug}`}>
                   <li className="items" key={slug}>
                     {title}
                   </li>

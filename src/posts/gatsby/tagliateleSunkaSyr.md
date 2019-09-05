@@ -1,6 +1,6 @@
 ---
-title: "Vepřová pečeně se špenátem"
-tags: ["vepřové", "pečené"]
+title: "Tagliatele se šunkou a sýrem"
+tags: ["testoviny", "pecene", "syr"]
 ---
 
 ![Vepřová pečeně](./images/veprovaPecene.jpg)

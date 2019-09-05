@@ -1,6 +1,6 @@
 ---
 title: "Kyselica"
-tags: ["polévka"]
+tags: ["polevka"]
 ---
 
 ![Kyselica](./images/kyselica.jpg)

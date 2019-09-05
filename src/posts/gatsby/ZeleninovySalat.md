@@ -1,6 +1,6 @@
 ---
 title: "Zeleninový salát"
-tags: ["zelenina", "zdravé"]
+tags: ["zelenina", "zdrave"]
 ---
 
 ![Zeleninový salát](./images/zeleninovySalat.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Pizza"
-tags: ["těsto", "pečené"]
+tags: ["testo", "pecene"]
 ---
 
 ![Pizza](./images/pizza.jpg)

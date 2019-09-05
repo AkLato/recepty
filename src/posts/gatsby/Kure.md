@@ -1,6 +1,6 @@
 ---
 title: "Pečené kuře"
-tags: ["kuřecí", "pečené"]
+tags: ["kureci", "pecene"]
 ---
 
 ![Pečené kuře](./images/kure.jpg)

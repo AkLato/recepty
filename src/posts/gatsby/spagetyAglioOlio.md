@@ -1,6 +1,6 @@
 ---
-title: "Vepřová pečeně se špenátem"
-tags: ["vepřové", "pečené"]
+title: "Špagety aglio olio"
+tags: ["testoviny"]
 ---
 
 ![Vepřová pečeně](./images/veprovaPecene.jpg)

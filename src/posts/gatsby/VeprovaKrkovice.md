@@ -1,6 +1,6 @@
 ---
 title: "Krkovička s cibulí a slaninou"
-tags: ["vepřové", "pečené"]
+tags: ["veprové", "pecene"]
 ---
 
 ![Krkovička s cibulí a slaninou](./images/veprovaKrkovice.jpg)

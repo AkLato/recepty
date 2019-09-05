@@ -1,6 +1,6 @@
 ---
-title: "Vepřová pečeně se špenátem"
-tags: ["vepřové", "pečené"]
+title: "Špízy z trouby"
+tags: ["veprove", "pecene", "zelenina"]
 ---
 
 ![Vepřová pečeně](./images/veprovaPecene.jpg)

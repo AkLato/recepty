@@ -1,6 +1,6 @@
 ---
 title: "Pečená kachní stehna"
-tags: ["kachna", "knedlíky", "pečené"]
+tags: ["kachna", "knedliky", "pecene"]
 ---
 
 ![kachni stehna](./images/kachna.jpg)

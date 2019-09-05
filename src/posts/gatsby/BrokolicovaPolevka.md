@@ -1,6 +1,6 @@
 ---
 title: "Brokolicová polévka"
-tags: ["polévka", "zelenina"]
+tags: ["polevka", "zelenina"]
 ---
 
 ![brokolice](./images/brokolicova2.jpg)

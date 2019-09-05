@@ -1,6 +1,6 @@
 ---
-title: "Vepřová pečeně se špenátem"
-tags: ["vepřové", "pečené"]
+title: "Smažené kuře"
+tags: ["kureci", "smazene"]
 ---
 
 ![Vepřová pečeně](./images/veprovaPecene.jpg)

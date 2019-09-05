@@ -1,6 +1,6 @@
 ---
 title: "Fettuccine Alfredo"
-tags: ["těstoviny", "smetana", "sýr"]
+tags: ["testoviny", "smetana", "syr"]
 ---
 
 ![bananove livance](./images/Fettuccine-Alfredo-5.jpg)

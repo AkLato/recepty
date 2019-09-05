@@ -1,6 +1,6 @@
 ---
 title: "Kuřecí paličky"
-tags: ["pečené", "kuřecí"]
+tags: ["pecene", "kureci"]
 ---
 
 ![Kuřecí paličky](./images/kureciPalicky.jpg)
