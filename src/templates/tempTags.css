@@ -46,6 +46,7 @@
   text-decoration: none;
   color: black;
   float: right;
+  display: none;
 }
 
 @media (max-width: 767px) {
@@ -62,5 +63,10 @@
     margin: 0.2rem;
     height: 50px;
     text-indent: 0;
+  }
+}
+@media (max-width: 1250px) {
+  .linkHomeTemp {
+    display: block;
   }
 }

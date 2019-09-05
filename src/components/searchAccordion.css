@@ -66,6 +66,7 @@
   padding: 1rem 0;
   margin: 0;
   height: 64px;
+  width: 100px;
 }
 
 .searchBox form {
@@ -80,6 +81,7 @@
   background-color: transparent;
   height: 38px;
   width: 38px;
+  display: none;
 }
 
 .content ul {
