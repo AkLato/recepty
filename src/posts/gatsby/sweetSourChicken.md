@@ -3,27 +3,48 @@ title: "Sweet & Sour Chicken"
 tags: ["kureci", "smazene", "nudle"]
 ---
 
-![Vepřová pečeně](./images/veprovaPecene.jpg)
+![Vepřová pečeně](./images/sweetSourChicken.jpg)
 
 **Ingredience**
 
-- 1 kg vepřová pečeně
-- 1 ks citron
-- 3 lžíce rostlinný olej
-- 2 stroužek česnek
-- 750 g špenát
-- 75 g malé cibulky
-- 250 g rajčata
-- 2 lžíce smetana ke šlehání
-- sůl
-- pepř mletý
+- 680.39 g chicken breasts cut into 1” chunks
+- 64 g cornstarch
+- 2 eggs beaten
+- 31.25 g flour
+- canola oil for frying
+- 566 g pineapple chunks
+- 1 red bell pepper cut into 1” chunks
+- 1 green bell pepper cut into 1” chunks
+- 0.5 yellow onion cut into 1” chunks
+- 100 g sugar
+- 55 g brown sugar
+- 119.5 g apple cider vinegar
+- 80 g ketchup
+- 4 teaspoons reduced sodium soy sauce
+- 2 cloves garlic minced
 
 **Postup**
 
-1. Maso omyjeme, osušíme a potřeme solí a pepřem. Pečeme v předehřáté troubě (elektrický sporák 200 °C/plyn stupeň 3) asi 1 1/4 hodiny. Občas podlijeme. Citron omyjeme horkou vodou a dosucha otřeme. Kúru oloupeme škrabkou na proužky a odložíme. Šťávu vymačkáme a smísíme s 2 lžícemi oleje. Oloupeme česnek, nakrájíme jej na tenké plátky a spolu s proužky citronu vložíme do citronového oleje, kterým pak podlijeme maso (asi po hodině pečení). Špenát očistíme a propereme. Malé cibulky oloupeme, přepůlíme a opečeme na zbylém oleji. Přidáme neokapaný špenát a dusíme. Rajčata omyjeme, očistíme a rozkrájíme na kousky. Vmícháme je do špenátu, prohřejeme a ochutíme. Měkké maso vyjmeme, výpek procedíme a doplníme vodou na 1/2 l tekutiny. Přivedeme k varu. Solamyl utřeme ve smetaně, vmícháme do výpeku, krátce povaříme, osolíme a opepříme. Na míse upravíme pečeni se špenátem a ozdobíme plátky citronu. Vhodnou přílohou jsou opečené brambory
+1. To make the sauce, whisk together the sugar, brown sugar, apple cider vinegar, ketchup, soy sauce and garlic into a small bowl.
+2. Pour enough canola oil into a dutch oven or frying pan that is comes up from the bottom about an inch to an inch and a half.
+3. Heat the oil on medium high to high heat, you’re looking for the chicken to cook and brown in about 2-3 minutes.
+
+4. Add the cornstarch to a large ziplock bag.
+5. Add the chicken pieces to the large ziplock bag and shake until all the pieces are well coated.
+6. Dip the pieces into the egg, then into the flour before adding to the hot oil.
+7. Cook the chicken for 2-3 minutes, until cooked through and crispy.
+
+8. Remove to a cookie sheet (no paper towels!) and continue cooking all the chicken pieces.
+9. When done cooking remove all but a tablespoon of the oil.
+10. Add the bell peppers, onion and pineapple and cook for 1-2 minutes, until crisp-tender.
+
+11. Add the sauce back in and stir to coat the pieces and cook for 30 seconds to help the garlic warm through
+
+12. Add the chicken pieces back in and stir until the sauce has thickened and bubbling.
+13. Serve immediately, with optional garnishes of sesame seeds or green onions.
 
 **Video**
 
 <figure class="video_container">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Zi3a3h5763g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/hKkGDwi8plE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
